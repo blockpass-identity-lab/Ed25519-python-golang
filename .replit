@@ -1,1 +1,1 @@
-run="python verify.py"
+run="python python/verify.py"
